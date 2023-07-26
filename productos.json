@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "nombre": "Alisado Biomolecular",
+      "categoria": "Productos con Formol",
+      "precio": 1000,
+      "stock": 5,
+      "imagen": "./img/alisado-biomolecular.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Alisado Botox",
+      "categoria": "Productos con Formol",
+      "precio": 1000,
+      "stock": 3,
+      "imagen": "./img/alisado-botox.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Alisado Cereza",
+      "categoria": "Productos con Formol",
+      "precio": 1000,
+      "stock": 4,
+      "imagen": "./img/alisado-cereza.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Nutrición Multivitamínica",
+      "categoria": "Productos sin formol",
+      "precio": 1300,
+      "stock": 2,
+      "imagen": "./img/nutricion-multi.png"
+    },
+    {
+      "id": 5,
+      "nombre": "Nanoplastía",
+      "categoria": "Productos sin formol",
+      "precio": 1300,
+      "stock": 2,
+      "imagen": "./img/nanoplastia.png"
+    },
+    {
+      "id": 6,
+      "nombre": "Oro Líquido",
+      "categoria": "Productos sin formol",
+      "precio": 1500,
+      "stock": 3,
+      "imagen": "./img/Oro-liquido.png"
+    },
+    {
+      "id": 7,
+      "nombre": "Shock de Queratina",
+      "categoria": "Productos sin formol",
+      "precio": 900,
+      "stock": 2,
+      "imagen": "./img/shock-queratina.png"
+    }
+  ]
+  
